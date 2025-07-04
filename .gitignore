@@ -1,0 +1,11 @@
+# Streamlit secrets
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# Environment variables
+.env
+.env.local
+
+# API keys
+*.key
+api_keys.txt
